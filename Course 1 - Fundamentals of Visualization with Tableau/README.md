@@ -530,10 +530,4 @@ Congratulations on completing the first course in the **Data Visualization with 
 - **Best Practices for Visualization**: 
   You learned important best practices for data visualization, including knowing your audience, understanding your data, using color effectively, and keeping visualizations simple and clean.
 
-### What’s Next:
-
-This course gave you a solid foundation, but there’s much more to learn! To deepen your knowledge and refine your skills, I encourage you to move on to the next course in the specialization. You'll learn the theory behind effective design and how to make visualizations tailored to specific audiences. The following courses will use the full version of **Tableau Desktop**, which provides more advanced tools and features for creating sophisticated visualizations.
-
-Good luck on your journey to becoming a data visualization expert, and keep practicing to stay sharp!
-
 Happy vizing!
