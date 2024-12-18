@@ -59,9 +59,8 @@ Each course incorporates hands-on projects where you will apply the concepts you
 
 - **Estimated Duration:** ~72 Hours (approximately 1-2 months at 10 hours per week)  
 - **Skill Level:** Beginner  
-- **Provided By:** University of California, Davis  
-
-Upon completion, you will earn a **shareable certificate** that can be added to your LinkedIn profile or resume to showcase your data visualization expertise.  
+- **Provided By:** University of California, Davis
+- **Certification Link:** 
 
 ---
 
